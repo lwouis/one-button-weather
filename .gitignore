@@ -1,0 +1,8 @@
+/.idea/
+xcuserdata/
+WorkspaceSettings.xcsettings
+IDEWorkspaceChecks.plist
+project.xcworkspace/
+/DerivedData/
+/build/
+.DS_Store
